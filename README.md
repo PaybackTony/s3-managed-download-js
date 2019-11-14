@@ -8,7 +8,7 @@ The JavaScript SDK Managed Download can be used for custom S3 downloads. The cli
 
 This package only works in Node.js versions 6+ currently. Use the npm package manager for Node.js to install the Managed Download package. Type the following command in a terminal window.
 
-        npm install @aws/s3-managed-download
+        npm install @aws/s3-managed-downloader
 
 ## Documentation
 
